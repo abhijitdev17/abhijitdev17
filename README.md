@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🐐 Abhijit Payra
 
-<!--
-**abhijitdev17/abhijitdev17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Making Cool Apps in Flutter`**
 
-Here are some ideas to get you started:
+Hi, I’m Abhijit—a Flutter developer with over a year of experience building mobile apps. I work with **Flutter, Dart, Firebase, Git, MySQL, and SQLite**, creating apps that are smooth, functional, and easy to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently focused on getting more comfortable with Flutter and exploring new ways to improve mobile experiences. I enjoy experimenting with features, solving tricky problems, and refining apps one step at a time.
+
+## 💻 Tech Stack
+
+* **Languages:** Dart, SQL
+* **Frameworks & Tools:** Flutter, Firebase, Git
+* **Databases:** MySQL, SQLite
+* **Other Tools:** VS Code, Android Studio
+
+## 📫 Contact Me
+
+* **Email:** [work.abhijitpayra@gmail.com](mailto:work.abhijitpayra@gmail.com)
+* **LinkedIn:** [linkedin.com/in/abhijit-payra](https://www.linkedin.com/in/abhijit-payra)
+
+If you’re working on mobile apps, tech projects, or just want to geek out over Flutter, feel free to reach out—I’d love to connect!
