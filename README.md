@@ -15,7 +15,7 @@ I’m currently focused on getting more comfortable with Flutter and exploring n
 
 ## 📫 Contact Me
 
-* **Email:** [work.abhijitpayra@gmail.com](mailto:work.abhijitpayra@gmail.com)
+* **Email:** [work.abhijitpayra@gmail.com](mailto:abhijitpayra100@gmail.com)
 * **LinkedIn:** [linkedin.com/in/abhijit-payra](https://www.linkedin.com/in/abhijit-payra)
 
 If you’re working on mobile apps, tech projects, or just want to geek out over Flutter, feel free to reach out—I’d love to connect!
